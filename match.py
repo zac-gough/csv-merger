@@ -1,4 +1,4 @@
-
+#!source env/bin/activate
 #!/usr/bin/env python3
 import pandas as pd
 import PySimpleGUI as sg
